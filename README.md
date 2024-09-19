@@ -1,30 +1,28 @@
-# React + TypeScript + Vite
+# Netflix-Clone
+A Netflix-inspired web application built using React and Vite, integrated with Firebase for authentication and backend services. This clone fetches movie and TV show data dynamically from TheMovieDB API, allowing users to browse, search, and view detailed information about the latest films and series.
+-Key features include:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
++User authentication with Firebase
 
-Currently, two official plugins are available:
+<img src='https://github.com/user-attachments/assets/3b164133-98c9-498e-b7b3-de2cb04ce2ee' width=80% height=80%/> <br/><br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<img src='https://github.com/user-attachments/assets/0a7146de-84db-4dde-813b-7f7fe8e63094' width=80% height=80%/><br/><br/>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+<img src='https://github.com/user-attachments/assets/a975926a-5008-4a02-89d6-05e307ea55ff' width=80% height=80%/><br/><br/>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<img src='https://github.com/user-attachments/assets/04515f4a-8eb9-4adc-baea-7e2843a46781' width=80% height=80% /><br/><br/>
+
+
++Dynamic movie/TV show listings powered by TheMovieDB API.
+
++Responsive design for a seamless experience across devices.
+
+
++Real-time updates and blazing-fast performance with Vite.
+
+<img src='https://github.com/user-attachments/assets/ed676248-1799-487c-b6de-947b3327e1e9' width=30% height=30%/>
+<img src='https://github.com/user-attachments/assets/65b37929-4ab0-48b8-b30b-040e9cef3c91' width=30% height=30%/>
+<img src='https://github.com/user-attachments/assets/34d4a297-3a66-4c0b-9e87-ae4618fa131c' width=30% height=30%/>
