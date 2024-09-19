@@ -4,16 +4,16 @@ A Netflix-inspired web application built using React and Vite, integrated with F
 
 +User authentication with Firebase
 
-<img src='https://github.com/user-attachments/assets/3b164133-98c9-498e-b7b3-de2cb04ce2ee' width=80% height=80%/> 
+<img src='https://github.com/user-attachments/assets/3b164133-98c9-498e-b7b3-de2cb04ce2ee' width=80% height=80%/> <br/><br/>
 
 
-<img src='https://github.com/user-attachments/assets/0a7146de-84db-4dde-813b-7f7fe8e63094' width=80% height=80%/>
+<img src='https://github.com/user-attachments/assets/0a7146de-84db-4dde-813b-7f7fe8e63094' width=80% height=80%/><br/><br/>
 
 
-<img src='https://github.com/user-attachments/assets/a975926a-5008-4a02-89d6-05e307ea55ff' width=80% height=80%/>
+<img src='https://github.com/user-attachments/assets/a975926a-5008-4a02-89d6-05e307ea55ff' width=80% height=80%/><br/><br/>
 
 
-<img src='https://github.com/user-attachments/assets/04515f4a-8eb9-4adc-baea-7e2843a46781' width=80% height=80% />
+<img src='https://github.com/user-attachments/assets/04515f4a-8eb9-4adc-baea-7e2843a46781' width=80% height=80% /><br/><br/>
 
 
 +Dynamic movie/TV show listings powered by TheMovieDB API.
