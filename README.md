@@ -3,7 +3,7 @@ A Netflix-inspired web application built using React and Vite, integrated with F
 -Key features include:
 
 +User authentication with Firebase
-<img src='https://github.com/user-attachments/assets/3b164133-98c9-498e-b7b3-de2cb04ce2ee' width="50" height="50"/>
+<img src='https://github.com/user-attachments/assets/3b164133-98c9-498e-b7b3-de2cb04ce2ee' width=50% height=50%/>
 <img src='https://github.com/user-attachments/assets/ed676248-1799-487c-b6de-947b3327e1e9'/>
 
 +Dynamic movie/TV show listings powered by TheMovieDB API.
